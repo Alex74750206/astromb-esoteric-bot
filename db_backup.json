@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "user_id": 1671430733,
+      "username": "aleks74753120",
+      "full_name": "Alex K",
+      "birth_date": "20.11.1987",
+      "user_name_esoteric": null,
+      "funnel_step": 0,
+      "funnel_started_at": "2026-05-16 09:11:16",
+      "created_at": "2026-05-16 09:11:16"
+    },
+    {
+      "user_id": 5205594682,
+      "username": "alexkeller77",
+      "full_name": "Alex.keller77",
+      "birth_date": "31.05.1997",
+      "user_name_esoteric": null,
+      "funnel_step": 0,
+      "funnel_started_at": "2026-05-15 12:15:02",
+      "created_at": "2026-05-15 12:15:02"
+    },
+    {
+      "user_id": 6318606774,
+      "username": "alex_747502",
+      "full_name": "Alex",
+      "birth_date": "06.06.1975",
+      "user_name_esoteric": "Алексей Крицкий",
+      "funnel_step": 1,
+      "funnel_started_at": "2026-05-15 11:06:39",
+      "created_at": "2026-05-15 11:06:39"
+    }
+  ],
+  "purchases": []
+}
